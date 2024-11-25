@@ -1,0 +1,3 @@
+C:/Users/ivan1/Desktop/Практика синергия/K5/task_manager/build/CMakeFiles/upravlenie_zadachami.dir
+C:/Users/ivan1/Desktop/Практика синергия/K5/task_manager/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ivan1/Desktop/Практика синергия/K5/task_manager/build/CMakeFiles/ZERO_CHECK.dir

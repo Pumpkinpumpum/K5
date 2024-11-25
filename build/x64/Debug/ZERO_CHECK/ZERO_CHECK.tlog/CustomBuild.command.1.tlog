@@ -1,0 +1,10 @@
+^C:\USERS\IVAN1\DESKTOP\ПРАКТИКА СИНЕРГИЯ\K5\TASK_MANAGER\BUILD\CMAKEFILES\5327C435491EA2C1B7423B179662C6D6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/ivan1/Desktop/Практика синергия/K5/task_manager" "-BC:/Users/ivan1/Desktop/Практика синергия/K5/task_manager/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ivan1/Desktop/Практика синергия/K5/task_manager/build/TaskManager.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
